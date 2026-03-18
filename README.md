@@ -58,7 +58,7 @@ This project demonstrates how to:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bangalore-weather-analysis.git
+   git clone https://github.com/harsimran-kaur01/weather-data-analysis.git
    cd bangalore-weather-analysis
    ```
 
@@ -89,7 +89,6 @@ This project demonstrates how to:
 bangalore-weather-analysis/
 │── weather.py
 │── README.md
-│── requirements.txt
 │── weather_chart.png
 │── data/
     └── bangalore_weather.csv
@@ -117,7 +116,7 @@ bangalore-weather-analysis/
 
 ## 👨‍💻 Author
 
-Your Name
+Harsimran Kaur
 
 ---
 
